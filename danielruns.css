@@ -1,0 +1,19 @@
+.header {
+  height: 20%;
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;
+  -webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none;          /* Likely future */
+}
+
+canvas {
+  padding: 0;
+  margin: auto;
+  display: block;
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+}
